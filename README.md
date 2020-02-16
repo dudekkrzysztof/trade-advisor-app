@@ -1,1 +1,1 @@
-# trade-advisor-app
+# Trade Sdvisor (App part)
