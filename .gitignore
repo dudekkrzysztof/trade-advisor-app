@@ -232,3 +232,5 @@ fabric.properties
 .history
 
 # End of https://www.gitignore.io/api/pycharm,visualstudiocode
+
+poetry.lock

@@ -6,6 +6,7 @@ authors = ["Krzysztof Dudek <krzysztof@dudeksoft.pl>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+websockets = "^8.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
